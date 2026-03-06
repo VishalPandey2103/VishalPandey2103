@@ -70,16 +70,6 @@ Currently focused on:
 
 </div>
 
----
-
-## Currently Learning
-
-- Internals of TCP/IP and how the Linux network stack processes packets
-- Distributed systems concepts: replication, consensus, CAP theorem
-- AWS networking — building production-grade VPCs with private subnets, NAT gateways, and ALB
-- Advanced DSA: segment trees, graph algorithms, DP optimizations
-
----
 
 <div align="center">
 
