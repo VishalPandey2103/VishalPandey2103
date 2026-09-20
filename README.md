@@ -16,7 +16,7 @@
 
 🌱 Currently exploring **System Design, AWS, Distributed Systems & scalable backends**
 
- 💬 I'm passionate about Competitive Programming and love Problem Solving
+💬 Passionate about **Competitive Programming and Problem Solving**
 
 </div>
 
@@ -24,13 +24,13 @@
 
 <div align="center">
 
-  <a href="mailto:vishalpandey49535@gmail.com">
+<a href="mailto:vishalpandey49535@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+</a>
 
-  <a href="https://www.linkedin.com/in/vishal-pandey-48a387325/" target="_blank">
+<a href="https://www.linkedin.com/in/vishal-pandey-48a387325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+</a>
 
 </div>
 
@@ -48,25 +48,13 @@
 
 <hr/>
 
-<h2 align="center">🚀 Things I Build</h2>
-
-<div align="center">
-
-**Distributed Systems • Backend APIs • RAG Applications • Monitoring Systems • Full-Stack Applications**
-
-</div>
-
-<br/>
-
-<hr/>
-
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <br/>
 
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=VishalPandey2103&count_private=true&theme=react&border_radius=10" />
+<img width="390" src="https://readme-streak-stats-salesp07.vercel.app/?user=VishalPandey2103&count_private=true&theme=react&border_radius=10" />
 
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=VishalPandey2103&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 
@@ -78,22 +66,6 @@
 
 <br/><br/>
 
-<h2 align="center">📌 Currently</h2>
-
-<div align="center">
-
-Building → **Backend & Distributed Systems**
-
-Learning → **System Design & Cloud Infrastructure**
-
-Exploring → **GenAI & RAG Systems**
-
-Solving → **DSA & Competitive Programming**
-
-</div>
-
-<br/>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Code+Speaks+For+Itself.;Build+It.+Break+It.+Understand+It.;Make+It+Work.+Make+It+Scale." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=60&duration=3500&lines=Code+That+Scales." />
 </h1>
