@@ -16,9 +16,7 @@
 
 🌱 Currently exploring **System Design, AWS, Distributed Systems & scalable backends**
 
-💬 Ask me about **C++, DSA, Node.js, databases, APIs & backend development**
-
-⚡ I enjoy understanding **how things work internally**, not just making them work
+ 💬 I'm passionate about Competitive Programming and love Problem Solving
 
 </div>
 
@@ -26,16 +24,12 @@
 
 <div align="center">
 
-  <a href="https://github.com/VishalPandey2103">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:vishalpandey49535@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/vishal-pandey-48a387325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
@@ -47,7 +41,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,nodejs,express,react,mongodb,mysql,redis,rabbitmq,aws,docker,nginx,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,nodejs,express,react,mongodb,mysql,redis,rabbitmq,aws,docker,nginx,git,linux" />
 </div>
 
 <br/>
@@ -59,16 +53,6 @@
 <div align="center">
 
 **Distributed Systems • Backend APIs • RAG Applications • Monitoring Systems • Full-Stack Applications**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/VishalPandey2103/Skimmer">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=VishalPandey2103&repo=Skimmer&theme=react&border_radius=10" />
-</a>
 
 </div>
 
@@ -111,5 +95,5 @@ Solving → **DSA & Competitive Programming**
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Build.+Break.+Understand.+Repeat.;Thanks+for+visiting!+👋" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Code+Speaks+For+Itself.;Build+It.+Break+It.+Understand+It.;Make+It+Work.+Make+It+Scale." />
 </h1>
