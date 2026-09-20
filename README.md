@@ -8,10 +8,3 @@ About Me<br><br>🔭 Building backend systems and experimenting with distributed
 ![](https://github-readme-stats.shion.dev/api?username=VishalPandey2103&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?username=VishalPandey2103&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VishalPandey2103&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VishalPandey2103&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
