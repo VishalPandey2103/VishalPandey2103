@@ -1,10 +1,115 @@
-# 💫 About Me:
-About Me<br><br>🔭 Building backend systems and experimenting with distributed systems<br>🤝 Open to collaborating on interesting open-source projects<br>🌱 Currently exploring system design, AWS & scalable architectures<br>💬 Ask me about C++, Node.js, databases & DSA<br>⚡ Fun fact: I break things just to understand how they work
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VishalPandey2103.VishalPandey2103" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Pandey!;" />
+</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=VishalPandey2103&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?username=VishalPandey2103&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VishalPandey2103&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">
+    Computer Science Undergraduate @ NIT Srinagar, India
+</h3>
+
+<br/>
+
+<div align="center">
+
+🔭 Currently building **backend systems, distributed applications & GenAI projects**
+
+🌱 Currently exploring **System Design, AWS, Distributed Systems & scalable backends**
+
+💬 Ask me about **C++, DSA, Node.js, databases, APIs & backend development**
+
+⚡ I enjoy understanding **how things work internally**, not just making them work
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/VishalPandey2103">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,nodejs,express,react,mongodb,mysql,redis,rabbitmq,aws,docker,nginx,git,github,linux" />
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">🚀 Things I Build</h2>
+
+<div align="center">
+
+**Distributed Systems • Backend APIs • RAG Applications • Monitoring Systems • Full-Stack Applications**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/VishalPandey2103/Skimmer">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=VishalPandey2103&repo=Skimmer&theme=react&border_radius=10" />
+</a>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<br/>
+
+<div align="center">
+
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=VishalPandey2103&count_private=true&theme=react&border_radius=10" />
+
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=VishalPandey2103&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+
+<br/>
+
+<img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=VishalPandey2103&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" />
+
+</div>
+
+<br/><br/>
+
+<h2 align="center">📌 Currently</h2>
+
+<div align="center">
+
+Building → **Backend & Distributed Systems**
+
+Learning → **System Design & Cloud Infrastructure**
+
+Exploring → **GenAI & RAG Systems**
+
+Solving → **DSA & Competitive Programming**
+
+</div>
+
+<br/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Build.+Break.+Understand.+Repeat.;Thanks+for+visiting!+👋" />
+</h1>
